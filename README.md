@@ -29,14 +29,14 @@ and backened development skills, growing my
 portfolio, and working on projeects that challenge 
 me creatively and technically.
 
-##Tech Stack
+## Tech Stack
 - HTML
 - CSS
 - JavaScript
 - Firebase
 - SQL
 
-##Current Goals
+## Current Goals
 - Build full-stack web applications
 - Improve Problem- solving and development
   skills
